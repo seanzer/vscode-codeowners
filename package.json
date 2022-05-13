@@ -2,12 +2,12 @@
     "name": "vscode-codeowners",
     "displayName": "CODEOWNERS",
     "description": "VS Code extension for CODEOWNERS file",
-    "publisher": "jasonnutter",
+    "publisher": "Sean Lee",
     "repository": {
-        "url": "https://github.com/jasonnutter/vscode-codeowners"
+        "url": "https://github.com/seanzer/vscode-codeowners"
     },
     "license": "MIT",
-    "version": "1.1.1-selee",
+    "version": "1.2.0-selee",
     "engines": {
         "vscode": "^1.29.0"
     },
